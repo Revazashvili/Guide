@@ -16,8 +16,7 @@ import {
 
 const frontmatter: ChannelFrontmatter = {
 	title: "JavaScript and TypeScript",
-	subtitle:
-		"Explore a collection of learning resources to increase your productivity and start making amazing apps faster.",
+	subtitle: "Increase your productivity \n and make amazing apps faster.",
 	resourceType: "channel",
 	date: new Date(Date.UTC(2020, 1, 11)),
 	author: "pwe",
